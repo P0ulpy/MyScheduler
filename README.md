@@ -1,2 +1,2 @@
-# MyScheduler
-My personal scheduler
+# MySchedulerAPI
+My personal scheduler API
